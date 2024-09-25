@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-[assignment 1.docx](https://github.com/user-attachments/files/17131837/assignment.1.docx)
-[assignment 2.docx](https://github.com/user-attachments/files/17131840/assignment.2.docx)
+
+[assignment 2.docx](https://github.com/user-attachments/files/17131907/assignment.2.docx)
+[assignment 2.docx](https://github.com/user-attachments/files/17131913/assignment.2.docx)
+[assignment 1.docx](https://github.com/user-attachments/files/17131911/assignment.1.docx)
